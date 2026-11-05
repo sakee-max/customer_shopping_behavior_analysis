@@ -3,14 +3,6 @@ Project Background
 This is a company using e-commerce and physical retail stores to sell apparel, footwear, outerwear, and accessories nationwide via website, mobile app, and in-store pickup.
 The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program that has been previously underutilized. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve the store’s commercial success.
 
-Insights and recommendations are provided on the following key areas:
-      
-      1. Boost Subscriptions
-      2. Customer Loyalty Programs
-      3. Review Discount Policy
-      4. Product Positioning
-      5. Targeted Marketing
-
 Data Structure & Initial Checks
 
 The dataset, as seen below, consists of a table: customer_shopping, with a total row of 3,900 customer transaction records, with 18 columns
