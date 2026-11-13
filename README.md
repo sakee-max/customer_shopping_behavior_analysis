@@ -1,11 +1,10 @@
-Project Background
-
-This is a company using e-commerce and physical retail stores to sell apparel, footwear, outerwear, and accessories nationwide via website, mobile app, and in-store pickup.
-The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program that has been previously underutilized. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve the store’s commercial success.
+# Customer Shopping Behavior Insights - Project Overview
+## The goal of this project is to determine how the company can leverage sales data to improve customer engagement optimize product and marketing strategies.
+** This is a company using e-commerce and physical retail stores to sell apparel, footwear, outerwear, and accessories nationwide via website, mobile app, and in-store pickup. The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program that has been previously underutilised. This project thoroughly analyses and synthesises this data to uncover critical insights that will improve the store’s commercial success.
 
 Data Structure & Initial Checks
 
-The dataset, as seen below, consists of a table: customer_shopping, with a total row of 3,900 customer transaction records, with 18 columns
+The dataset, as seen below, consisted of a table containing customer_shopping information.
 
 Table Schema   
 
