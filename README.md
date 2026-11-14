@@ -15,13 +15,13 @@ The dataset, as seen below, consists of a table containing customer_shopping inf
 - **Orders**: How many times people bought.
 
 #### Sales
--Across categories, Clothing ($102.97k) and Accessories ($73.48k) are the top sellers, responsible for 76.5% of sales. Across category, Outerwear ($18.4k) is the worst performer, responsible for ~8% of sales
+-Across categories, Clothing ($102.97k) and Accessories ($73.48k) are the top sellers, responsible for 76.5% of sales. Across categories, Outerwear ($18.4k) is the worst performer, responsible for ~8% of sales.
 - Across clothing, Blouse, shirt and dress are the biggest contributors to this increase in sales, generating $10.3k, $ 10.24k, and $10.2k, respectively, while jeans is the worst performer ($7.55k). Across accessories, jewellery and belts are the biggest contributors to this increase, bringing in 9.9k and 9.52k, respectively.
 -Across the worst performer in the category, it only has two products: jacket ($9.25k) and coat ($9.15k), which is lower compared to the other categories, which sell more than 3 products.
 
 #### AOV
 
--Across categories, Footwear is the best performer by AOV at $60.23, which is more than the average of $59.7. The best performers in sales, Clothing ($59.93) and Accessories ($59.79), rank lower than Footwear when compared by AOV. Outerwear ($7.15) is the worst performer, which is responsible for 24.1% of overall AOV.
+-Across categories, Footwear is the best performer by AOV at $60.23, which is more than the average of $59.7. The best performers in sales, Clothing ($59.93) and Accessories ($59.79), rank lower than Footwear when compared by AOV. Outerwear ($7.15) is the worst performer and accounts for 24.1% of overall AOV.
 - Across Footwear, boots ($62.36) and shoes ($61.88) are the biggest contributors to this surge in AOV, while sandals ($57.41) are the worst performers.
 - Across products, T-shirt and dress across clothing and Scarf and Gary across accessories are responsible for the major increase in AOV.
 -Across Outerwear, jacket ($56.74) is the worst performer in AOV, which is lower than that of all other products.
@@ -32,7 +32,7 @@ The dataset, as seen below, consists of a table containing customer_shopping inf
 - Across products, pants (149) and blouses (147) across clothing and jewellery (144) and sunglasses (143) across accessories are responsible for many of the higher orders across the two categories. 
 
 ## Recommendations
-- Health for All: Reallocate budget from Golden Years Security, which had a high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a  relatively low amount ($2K) in it.    
+- Health for All: Reallocate budget from Golden Years Security, which had a high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested relatively little ($2K) in it.    
 - Health awareness: Within Health for All campaigns, focus on Policy Information-type campaigns, and less on Offer Announcement-type campaigns, which had low signup rate and CTR.
 - Golden Years Campaigns: Investigate the cause of high cost per signup for these campaign categories, which had high CACs compared to an average signup cost of $2.2. Consider removing these campaigns altogether after exploring the root cause. 
 - #HealthLiving: Decrease investment in this campaign category, which has the highest spend ($4.6k) but mediocre signup rates compared to Health for All campaigns.
