@@ -15,20 +15,21 @@ The dataset, as seen below, consists of a table containing customer_shopping inf
 - **Orders**: How many times people bought.
 
 #### Sales
-- Across categories, Health for All and Benefit Updates performed nearly 2-3x better than the average CTR at 34.56% and 22.02%, respectively.
-- Within the two categories with high CTR, Customer Testimonial-based campaign and Policy Information had relatively low CTR (32.46% and 16.81%, respectively).
-- Family coverage Plan data showed high impressions but few clicks (0.03%) – this needs to be investigated and could be due to missing data or issues with campaign tagging.
+-Across categories, Clothing ($102.97k) and Accessories ($73.48k) are the top sellers, responsible for 76.5% of sales. Across category, Outerwear ($18.4k) is the worst performer, responsible for ~8% of sales
+- Across clothing, Blouse, shirt and dress are the biggest contributors to this increase in sales, generating $10.3k, $ 10.24k, and $10.2k, respectively, while jeans is the worst performer ($7.55k). Across accessories, jewellery and belts are the biggest contributors to this increase, bringing in 9.9k and 9.52k, respectively.
+-Across the worst performer in the category, it only has two products: jacket ($9.25k) and coat ($9.15k), which is lower compared to the other categories, which sell more than 3 products.
 
 #### AOV
 
-- Across campaign categories, Health for All campaigns had the best-performing signup rate (3.0%) and the second-highest number of signups (3.5k).
-- This high signup rate is due to the Policy Information campaign type, which had by far the highest signup rate across all campaign types (4.18%).
--Interestingly, the most expensive campaign, which had the highest number of signups. #HealthLiving – had a comparably low
-Signup rate at 0.28%
+-Across categories, Footwear is the best performer by AOV at $60.23, which is more than the average of $59.7. The best performers in sales, Clothing ($59.93) and Accessories ($59.79), rank lower than Footwear when compared by AOV. Outerwear ($7.15) is the worst performer, which is responsible for 24.1% of overall AOV.
+- Across Footwear, boots ($62.36) and shoes ($61.88) are the biggest contributors to this surge in AOV, while sandals ($57.41) are the worst performers.
+- Across products, T-shirt and dress across clothing and Scarf and Gary across accessories are responsible for the major increase in AOV.
+-Across Outerwear, jacket ($56.74) is the worst performer in AOV, which is lower than that of all other products.
 
 #### Orders
-- Across campaign categories, Golden Years Security had by far the highest cost per signup ($124.1), as well as the lowest number of signups (23), compared to an average of $2.2.
-- Within the two campaign categories with the highest cost per signup, Product Promotion drove the high costs per signup.
+
+- Surprisingly, the best performers in sales, clothing (574) and accessories (522), are the best performers in orders generated across the category. And the worst performer in sales, Outerwear (239 orders), is also the worst performer in generating orders, which is responsible for 37.22% of the orders.
+- Across products, pants (149) and blouses (147) across clothing and jewellery (144) and sunglasses (143) across accessories are responsible for many of the higher orders across the two categories. 
 
 ## Recommendations
 - Health for All: Reallocate budget from Golden Years Security, which had a high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a  relatively low amount ($2K) in it.    
