@@ -32,17 +32,31 @@ The dataset, as seen below, consists of a table containing customer_shopping inf
 - Across products, pants (149) and blouses (147) across clothing and jewellery (144) and sunglasses (143) across accessories are responsible for many of the higher orders across the two categories. 
 
 ## Recommendations
-- Health for All: Reallocate budget from Golden Years Security, which had a high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested relatively little ($2K) in it.    
-- Health awareness: Within Health for All campaigns, focus on Policy Information-type campaigns, and less on Offer Announcement-type campaigns, which had low signup rate and CTR.
-- Golden Years Campaigns: Investigate the cause of high cost per signup for these campaign categories, which had high CACs compared to an average signup cost of $2.2. Consider removing these campaigns altogether after exploring the root cause. 
-- #HealthLiving: Decrease investment in this campaign category, which has the highest spend ($4.6k) but mediocre signup rates compared to Health for All campaigns.
+- Core Revenue Drivers: Clothing ($102.97K) and Accessories ($73.48K) bring in 76.5% of all sales through high order volume. Keep top sellers (Blouses, Shirts, Dresses, Pants, Jewelry) in stock and featured on your homepage.
+-Order Value vs. Volume: Footwear leads in Average Order Value ($60.23), while Clothing relies on frequent, smaller purchases. Bundle high-value Boots and Shoes with popular Clothing items to increase cart sizes.
+- Weakest Performers: Outerwear makes up just 7.9% of sales ($18.4K), while Jeans ($7,548) and Jackets ($56.74 AOV) are the lowest-performing items. Run seasonal discounts or clearance promos on Jackets, Coats, and Jeans to boost demand.
+- Size M Trends: Size M gets high order volume in top states, but buyers spend less per order ($52.66–$57.43). Add a $65 free-shipping minimum or multi-item discounts to encourage larger baskets.
+- Size XL Trends: Size XL has low order counts, but buyers spend the most per order (up to 71.9 AOV). Target Size XL shoppers in top states (Nebraska, North Dakota, California) with focused ads and emails.
 
 ## Dashboard
  The dashboard can be found on Tableau Public <a href="https://public.tableau.com/app/profile/ithen.yayo/viz/CustomerBehaviorAnalysisDBproduct/Dashboard1?publish=yes">here</a>   
 
- The dashboard enables users to filter by gender, Location, date, and review rating, and focuses on trends in sales, AOV and Orders.
+The dashboard enables users to filter by gender, Location, date, and review rating, and focuses on trends in sales, AOV and Orders.
 
- <img width="946" height="512" alt="Screenshot 2026-11-13 180444" src="https://github.com/user-attachments/assets/f9840bdc-4372-45ba-8667-1f167619443f" />
+ <img width="936" height="505" alt="Screenshot 2026-11-15 194515" src="https://github.com/user-attachments/assets/713e3c3d-e50a-4a72-b662-473959398fef" />
+
+ ## Presentation Sample
+The presentation for the sales performance walks through the insights and recommendations above and is available    
+<a href="https://docs.google.com/presentation/d/1uhjdIyXk5KlH3Ot2kXCgOGYw4PGm_7O6/edit?slide=id.p1#slide=id.p1">here</a>
+
+Some extracts are presented below for easy viewing 
+
+<img width="551" height="310" alt="Screenshot 2026-11-15 195833" src="https://github.com/user-attachments/assets/9e2aa1be-c8fc-4f1f-a3fc-a4be2c9c6e41" />
+<img width="557" height="312" alt="Screenshot 2026-11-15 195853" src="https://github.com/user-attachments/assets/9a8c4ef6-07e2-4f8b-8a0d-184ef9e3519c" />
+<img width="554" height="309" alt="Screenshot 2026-11-15 195916" src="https://github.com/user-attachments/assets/283f2303-0b49-4875-ab40-c1ae3e5c33c9" />
+
+
+
 
 
 
