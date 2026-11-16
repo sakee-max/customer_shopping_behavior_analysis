@@ -14,6 +14,8 @@ The dataset, as seen below, consists of a table containing customer_shopping inf
 - **AOV**: How much each person spends per order on average.
 - **Orders**: How many times people bought.
 
+## Product Team
+
 #### Sales
 -Across categories, Clothing ($102.97k) and Accessories ($73.48k) are the top sellers, responsible for 76.5% of sales. Across categories, Outerwear ($18.4k) is the worst performer, responsible for ~8% of sales.
 - Across clothing, Blouse, shirt and dress are the biggest contributors to this increase in sales, generating $10.3k, $ 10.24k, and $10.2k, respectively, while jeans is the worst performer ($7.55k). Across accessories, jewellery and belts are the biggest contributors to this increase, bringing in 9.9k and 9.52k, respectively.
@@ -38,7 +40,7 @@ The dataset, as seen below, consists of a table containing customer_shopping inf
 - Size M Trends: Size M gets high order volume in top states, but buyers spend less per order ($52.66–$57.43). Add a $65 free-shipping minimum or multi-item discounts to encourage larger baskets.
 - Size XL Trends: Size XL has low order counts, but buyers spend the most per order (up to 71.9 AOV). Target Size XL shoppers in top states (Nebraska, North Dakota, California) with focused ads and emails.
 
-## Dashboard
+## Product Dashboard
  The dashboard can be found on Tableau Public 
  <a href="https://public.tableau.com/app/profile/ithen.yayo/viz/CustomerBehaviorAnalysisDBproduct/Dashboard1?publish=yes">here</a>
 
