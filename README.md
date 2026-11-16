@@ -1,5 +1,5 @@
 # Customer Shopping Behavior Insights - Project Overview
-## The goal of this project is to determine how the company can leverage sales data to improve customer engagement and optimise product and marketing strategies.
+## The goal of this project is to determine how the company can leverage customer shopping behavior data to improve customer engagement and optimise product and marketing strategies.
 GlobalSales is a company using e-commerce and physical retail stores to sell apparel, footwear, outerwear, and accessories nationwide via website, mobile app, and in-store pickup. The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program that has been previously underutilised. This project thoroughly analyses and synthesises this data to uncover critical insights that will improve the store’s commercial success.
 
 ## Dataset Structure
@@ -39,11 +39,13 @@ The dataset, as seen below, consists of a table containing customer_shopping inf
 - Size XL Trends: Size XL has low order counts, but buyers spend the most per order (up to 71.9 AOV). Target Size XL shoppers in top states (Nebraska, North Dakota, California) with focused ads and emails.
 
 ## Dashboard
- The dashboard can be found on Tableau Public <a href="https://public.tableau.com/app/profile/ithen.yayo/viz/CustomerBehaviorAnalysisDBproduct/Dashboard1?publish=yes">here</a>   
+ The dashboard can be found on Tableau Public 
+ <a href="https://public.tableau.com/app/profile/ithen.yayo/viz/CustomerBehaviorAnalysisDBproduct/Dashboard1?publish=yes">here</a>
 
 The dashboard enables users to filter by gender, Location, date, and review rating, and focuses on trends in sales, AOV and Orders.
 
- <img width="936" height="505" alt="Screenshot 2026-11-15 194515" src="https://github.com/user-attachments/assets/713e3c3d-e50a-4a72-b662-473959398fef" />
+ <img width="940" height="507" alt="Screenshot 2026-11-16 194618" src="https://github.com/user-attachments/assets/3f8842b6-e19e-4760-8bf3-b4118f0eb5ca" />
+
 
  ## Presentation Sample
 The presentation for the sales performance walks through the insights and recommendations above and is available    
