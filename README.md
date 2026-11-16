@@ -8,7 +8,7 @@ The dataset, as seen below, consists of a table containing customer_shopping inf
 <img width="1587" height="2245" alt="image" src="https://github.com/user-attachments/assets/33dbf1f4-414a-4f24-988b-a562556c3b86" />
 
 ## Insights Summary
-#### To evaluate sales performance, we focused on the following key metrics:
+#### To evaluate customer behavior performance, we focused on the following key metrics:
 
 - **Sales**: Total money you made from orders.
 - **AOV**: How much each person spends per order on average.
